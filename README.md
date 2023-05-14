@@ -18,7 +18,7 @@ Clone this repository to any Juypter Notebook (most preferable : Google Colabara
 run the Jupyter notebook main.ipynb.
 Run each cell in the notebook to reproduce the analysis.
 
-# 📌 Do add the Sonar_data.csv in content section of juypter notebook ( Google Colab)
+**📌 Do add the Sonar_data.csv in content section of juypter notebook ( Google Colab)**
 
 **# Data**
 
