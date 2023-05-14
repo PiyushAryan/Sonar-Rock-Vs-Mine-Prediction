@@ -7,10 +7,15 @@ This repository contains code and data for building a logistic regression model 
 To run the code in this repository, you will need the following:
 
 Python 3.6.x-3.11
+
 scikit-learn
+
 NumPy
+
 Pandas
+
 Matplotlib
+
 
 **# Getting Started**
 
