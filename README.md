@@ -22,9 +22,9 @@ Matplotlib
 Clone this repository to any Juypter Notebook (most preferable : Google Colabaratory).
 run the Jupyter notebook main.ipynb.
 Run each cell in the notebook to reproduce the analysis.
-
+```
 **📌 Do add the Sonar_data.csv in content section of juypter notebook ( Google Colab)**
-
+```
 **# Data**
 
 The dataset used in this project consists of 200+ sonar signals, each of which is either a rock or a mine. Each signal has 60 features, which are the energy values at different frequencies. 
